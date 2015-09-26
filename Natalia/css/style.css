@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#general{
+
+width: 90%;
+height:90%;
+padding: 10px;
+border: 2px dashed #CCC;
+background: #3D9998;
+
+}
+.cont1{
+	
+width: 500px;
+height:300px;
+padding: 10px;
+border: 2px dashed #CCC;
+background: #FF4071;
+margin:auto;
+align-content:center;
+
+
+	
+	
+	}
